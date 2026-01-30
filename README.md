@@ -4,6 +4,8 @@
 ![](https://github.com/apivideo/.github/blob/main/assets/apivideo_banner.png)
 <h1 align="center">api.video Python client</h1>
 
+> **LEGACY PROJECT:** This is a fork of the official api.video Python client. I authored the developer code samples (found in the /examples directory). 
+
 [api.video](https://api.video) is the video infrastructure for product builders. Lightning fast video APIs for integrating, scaling, and managing on-demand & low latency live streaming features in your app.
 
 ## Table of contents
