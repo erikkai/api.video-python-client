@@ -29,11 +29,11 @@ It's a silent video for combining with the audio tracks you'll be creating. This
 For this project, you're going to need: 
 
 * An api.video account - [Sign up here!](https://api.video)
-* An aflorithmic.ai account - [Sign up here!](https://console.api.audio/)
+* An aflorithmic.ai account - <!-- Dead link: [Sign up here!](https://console.api.audio/) -->
 
 # Installation
 
-We will use the [api.video Python client](https://github.com/apivideo/python-api-client) and [Aflorithic.ai's apiaudio library](https://docs.api.audio/recipes).
+We will use the [api.video Python client](https://github.com/apivideo/python-api-client) and <!-- Dead link: [Aflorithic.ai's apiaudio library](https://docs.api.audio/recipes). -->
 
 Installation for api.video: 
 ```pip install api.video```

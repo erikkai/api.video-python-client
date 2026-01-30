@@ -83,7 +83,7 @@ Retrieve a caption
 
 Retrieve a caption for a video in a specific language. If the language is available, the caption is returned. Otherwise, you will get a error indicating the caption was not found.
 
-Tutorials that use the [captions endpoint](https://api.video/blog/endpoints/captions).
+Tutorials that use the [captions endpoint](https://api.video/blog/endpoints/captions/).
 
 ### Example
 

@@ -33,4 +33,4 @@ You can review api.video documentation for details about available parameters pe
 
 # Documentation
 
-[docs.api.video/reference/apivideo-api-reference](https://docs.api.video/reference/apivideo-api-reference)
+[docs.api.video/reference/apivideo-api-reference](https://docs.api.video/reference)

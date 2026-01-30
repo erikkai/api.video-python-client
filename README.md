@@ -32,7 +32,7 @@
     - [WatermarksApi](#)
     - [WebhooksApi](#)
   - [Models](#models)
-- [Have you gotten use from this API client?](#have-you-gotten-use-from-this-api-client-)
+- [Have you gotten use from this API client?](#have-you-gotten-use-from-this-api-client)
 - [Contribution](#contribution)
 <!--</documentation_excluded>-->
 <!--<documentation_only>

@@ -24,11 +24,11 @@ The following is a set of guidelines for contributing to api.video and its packa
 
 ## Code of conduct
 
-This project and everyone participating in it is governed by the [api.video Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [help@api.video](mailto:help@api.video).
+This project and everyone participating in it is governed by the api.video Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [help@api.video](mailto:help@api.video).
 
 ## I just have a question!
 
-> **Note:** [Please don't file an issue to ask a question.] You'll get faster results by using the resources below.
+> **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
 We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
 
@@ -60,7 +60,7 @@ Explain the problem and include additional details to help maintainers reproduce
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
 * **Describe the exact steps which reproduce the problem** in as many details as possible. When listing steps, **don't just say what you did, but explain how you did it**.
-* **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
+* **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use Markdown code blocks.
 * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 * **Explain which behavior you expected to see instead and why.**
 * **Include screenshots or videos** which show you following the described steps and clearly demonstrate the problem.
@@ -86,7 +86,7 @@ When you are creating an enhancement suggestion, please [include as many details
 
 #### How do I submit a (good) enhancement suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the following information:
+Enhancement suggestions are tracked as [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues). After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the following information:
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
@@ -110,7 +110,7 @@ Otherwise, you can also simply open an issue detailing your need on this reposit
 
 This section lists the labels we use to help us track and manage issues on all api.video repositories.
 
-[GitHub search](https://help.github.com/articles/searching-issues/) makes it easy to use labels for finding groups of issues or pull requests you're interested in. We encourage you to read about [other search filters](https://help.github.com/articles/searching-issues/) which will help you write more focused queries.
+[GitHub search](https://help.github.com/articles/searching-issues/) makes it easy to use labels for finding groups of issues or pull requests you're interested in. We encourage you to read about [other search filters](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests) which will help you write more focused queries.
 
 
 #### Type of issue and issue state
