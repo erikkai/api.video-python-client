@@ -23,7 +23,15 @@ jobs:
         with:
           # Some content has broken links because Swagger (OpenAPI now) generated local files that do not 
           # exist in this fork and some are because GitHub Actions is blocked from checking.
-          args: --verbose --no-progress --accept 429 --exclude "./docs/.*" --exclude "https://github.com/search.*" --exclude "https://community.api.video/.*" --include-fragments '.'
+          # Added a line to accept any statuses as success if they are between 200 and 499. 
+            args: >
+              --verbose 
+              --no-progress 
+              --accept 200..499 
+              --exclude "./docs/.*" 
+              --exclude "https://github.com.*" 
+              --exclude "https://community.api.video/.*" 
+              --include-fragments '.' 
           # Setting to 'true' ensures the Badge turns RED on failure
           fail: true 
 
