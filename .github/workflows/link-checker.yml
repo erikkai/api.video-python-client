@@ -21,7 +21,9 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         id: lychee
         with:
-          args: --verbose --no-progress --include-fragments '.'
+          # Some content has broken links because Swagger (OpenAPI now) generated local files that do not 
+          # exist in this fork and some are because GitHub Actions is blocked from checking.
+          args: --verbose --no-progress --accept 429 --exclude "./docs/.*" --exclude "https://github.com/search.*" --exclude "https://community.api.video/.*" --include-fragments '.'
           # Setting to 'true' ensures the Badge turns RED on failure
           fail: true 
 
