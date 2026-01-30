@@ -54,7 +54,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 #### How do I submit a (good) bug report?
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/apivideo/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml).
+Bugs are tracked as [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/about-issues). After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/apivideo/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -90,7 +90,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://docs.github.com/e
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
-* **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
+* **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as Markdown code blocks.
 * **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
 * **Include screenshots** which help you demonstrate the steps or point out the part of api.video which the suggestion is related to.
 * **Explain why this enhancement would be useful** to most api.video users and isn't something that can or should be implemented as a community package.
@@ -110,7 +110,7 @@ Otherwise, you can also simply open an issue detailing your need on this reposit
 
 This section lists the labels we use to help us track and manage issues on all api.video repositories.
 
-[GitHub search](https://help.github.com/articles/searching-issues/) makes it easy to use labels for finding groups of issues or pull requests you're interested in. We encourage you to read about [other search filters](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests) which will help you write more focused queries.
+[GitHub search](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests) makes it easy to use labels for finding groups of issues or pull requests you're interested in. We encourage you to read about [other search filters](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests) which will help you write more focused queries.
 
 
 #### Type of issue and issue state
