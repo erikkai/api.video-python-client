@@ -8,8 +8,8 @@ on:
 
 jobs:
   create_documentation_pr:
-    if: github.event.action != 'closed'
-
+    # Commenting out original code, this is a work sample repo now if: github.event.action != 'closed'
+    if: false 
     runs-on: ubuntu-latest
 
     steps:
