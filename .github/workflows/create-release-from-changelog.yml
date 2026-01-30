@@ -7,6 +7,8 @@ on:
 
 jobs:
   update-documentation:
+    # Adding a statement to kill this process, this is a work sample repo so it isn't needed. 
+    if: false 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
