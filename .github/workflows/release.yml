@@ -4,6 +4,8 @@ on:
     types: [published]
 jobs:
   deploy:
+    # Adding to disable this since it's not needed in this work sample repo.
+    if: false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
