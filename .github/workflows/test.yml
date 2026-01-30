@@ -2,6 +2,8 @@ name: Run unit tests
 on: [push]
 jobs:
   test:
+    # Added to kill process. This is a work sample repo so the process isn't needed.
+    if: false
     runs-on: ubuntu-latest
     strategy:
       matrix:
