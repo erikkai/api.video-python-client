@@ -1,10 +1,11 @@
 name: Create documentation PR
-on:
+# Commenting out existing set up since it's not needed here. 
+# on:
   # Trigger the workflow on pull requests targeting the main branch
-  pull_request:
-    types: [assigned, unassigned, opened, reopened, synchronize, edited, labeled, unlabeled, edited, closed]
-    branches:
-      - main
+#  pull_request:
+#    types: [assigned, unassigned, opened, reopened, synchronize, edited, labeled, unlabeled, edited, closed]
+#    branches:
+#      - main
 
 jobs:
   create_documentation_pr:
